@@ -1,4 +1,4 @@
-package atvCursoJava.entitiess;
+package atvCursoJavaFeitos.entities;
 
 public class aatvVetor3 {
 

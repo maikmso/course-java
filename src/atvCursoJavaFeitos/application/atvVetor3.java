@@ -1,9 +1,9 @@
-package atvCursoJava.applicationn;
+package atvCursoJavaFeitos.application;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-import atvCursoJava.entitiess.aatvVetor3;
+import atvCursoJavaFeitos.entities.aatvVetor3;
 
 public class atvVetor3 {
 
